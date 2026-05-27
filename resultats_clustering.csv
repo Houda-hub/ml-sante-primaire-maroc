@@ -1,0 +1,83 @@
+﻿Delegation,Region,CDTMR,CRSR,CSR-1,CSR-2,CSU-1,CSU-2,DR,LSP,Cluster_KMeans,Cluster_Hierarchique,Cluster_DBSCAN
+Agadir Ida Ou Tanane,Souss-Massa,1.0,1.0,4.0,4.0,12.0,3.0,14.0,1.0,6,5,0
+Al Fida-Mers Sultan,Casablanca-Settat,1.0,1.0,0.0,0.0,9.0,3.0,0.0,0.0,4,4,1
+Al Haouz,Marrakech-Safi,1.0,0.0,30.0,9.0,3.0,2.0,42.0,0.0,1,1,-1
+Al Hoceima,Tanger-Tetouan-Al Hoceima,1.0,1.0,12.0,19.0,10.0,3.0,17.0,1.0,1,8,2
+Aousserd,Eddakhla-Oued Eddahab,0.0,0.0,0.0,2.0,0.0,0.0,2.0,0.0,0,0,3
+Assa-zag,Guelmim-Oued Noun,0.0,0.0,1.0,2.0,4.0,1.0,2.0,1.0,0,0,-1
+Azilal,Béni Mellal-Khénifra,2.0,1.0,26.0,21.0,5.0,0.0,37.0,1.0,1,8,-1
+Aïn Chok,Casablanca-Settat,1.0,0.0,0.0,0.0,8.0,4.0,0.0,0.0,0,0,3
+Aïn Sebaâ-Hay Mohammadi,Casablanca-Settat,1.0,1.0,0.0,0.0,9.0,4.0,0.0,0.0,4,4,1
+Ben Msick,Casablanca-Settat,1.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0,0,3
+Beni Mellal,Béni Mellal-Khénifra,1.0,1.0,14.0,6.0,11.0,2.0,14.0,1.0,6,5,0
+Benslimane,Casablanca-Settat,1.0,1.0,11.0,3.0,6.0,2.0,2.0,0.0,4,7,0
+Berkane,Oriental,1.0,0.0,11.0,1.0,7.0,2.0,2.0,1.0,0,0,-1
+Berrechid,Casablanca-Settat,1.0,1.0,17.0,0.0,3.0,7.0,7.0,0.0,5,6,-1
+Boujdour,Laayoune-Sakia El Hamra,1.0,0.0,0.0,1.0,4.0,0.0,5.0,0.0,0,0,3
+Boulemane,Fès-Meknès,1.0,1.0,11.0,6.0,2.0,2.0,20.0,1.0,6,5,0
+Casablanca Anfa,Casablanca-Settat,1.0,0.0,0.0,0.0,12.0,2.0,0.0,1.0,0,0,-1
+Chefchaouen,Tanger-Tetouan-Al Hoceima,1.0,1.0,12.0,15.0,4.0,0.0,22.0,0.0,8,1,-1
+Chichaoua,Marrakech-Safi,1.0,0.0,16.0,17.0,2.0,1.0,24.0,0.0,2,1,-1
+Chtouka Ait Baha,Souss-Massa,1.0,0.0,9.0,10.0,2.0,3.0,16.0,0.0,2,1,-1
+Driouch,Oriental,0.0,0.0,11.0,9.0,2.0,1.0,10.0,0.0,2,1,4
+El Hajeb,Fès-Meknès,1.0,0.0,12.0,1.0,3.0,3.0,7.0,0.0,0,0,3
+El Jadida,Casablanca-Settat,1.0,1.0,18.0,7.0,7.0,3.0,6.0,1.0,6,5,0
+El Kelaa Des Sraghna,Marrakech-Safi,1.0,1.0,33.0,6.0,7.0,2.0,20.0,1.0,1,8,-1
+Errachidia,Drâa-Tafilalet,1.0,1.0,15.0,13.0,8.0,4.0,22.0,1.0,1,8,2
+Es Semara,Laayoune-Sakia El Hamra,0.0,0.0,3.0,0.0,5.0,0.0,1.0,0.0,0,0,3
+Essaouira,Marrakech-Safi,1.0,0.0,46.0,6.0,5.0,4.0,8.0,1.0,7,3,-1
+Fahs-Anjra,Tanger-Tetouan-Al Hoceima,0.0,0.0,2.0,5.0,0.0,0.0,1.0,0.0,0,0,3
+Fes,Fès-Meknès,3.0,1.0,4.0,1.0,34.0,3.0,0.0,1.0,3,2,-1
+Figuig,Oriental,0.0,0.0,6.0,5.0,4.0,0.0,16.0,0.0,2,1,4
+Fkih Ben Saleh,Béni Mellal-Khénifra,0.0,1.0,9.0,8.0,5.0,1.0,35.0,0.0,8,1,-1
+Guelmim,Guelmim-Oued Noun,1.0,1.0,13.0,5.0,8.0,0.0,15.0,0.0,8,7,0
+Guercif,Oriental,1.0,1.0,4.0,6.0,4.0,1.0,23.0,1.0,8,5,0
+Hay Hassani,Casablanca-Settat,1.0,1.0,0.0,0.0,12.0,2.0,0.0,0.0,4,4,1
+Ifrane,Fès-Meknès,1.0,1.0,0.0,9.0,4.0,1.0,18.0,0.0,8,7,0
+Inezgane Ait Melloul,Souss-Massa,1.0,0.0,3.0,1.0,12.0,2.0,3.0,0.0,0,0,3
+Jerada,Oriental,1.0,0.0,8.0,3.0,4.0,3.0,2.0,1.0,0,0,-1
+Kenitra,Rabat-Salé-Kénitra,1.0,1.0,17.0,7.0,25.0,5.0,10.0,1.0,6,2,-1
+Khenifra,Béni Mellal-Khénifra,1.0,1.0,14.0,7.0,7.0,3.0,15.0,1.0,6,5,0
+Khouribga,Béni Mellal-Khénifra,1.0,1.0,19.0,8.0,8.0,6.0,8.0,1.0,6,2,-1
+Khémisset,Rabat-Salé-Kénitra,1.0,1.0,22.0,9.0,8.0,1.0,8.0,0.0,8,7,0
+Laayoune,Laayoune-Sakia El Hamra,1.0,1.0,1.0,0.0,12.0,1.0,4.0,1.0,4,4,-1
+Larache,Tanger-Tetouan-Al Hoceima,1.0,2.0,8.0,9.0,10.0,0.0,7.0,1.0,6,5,-1
+Marrakech,Marrakech-Safi,1.0,1.0,7.0,6.0,45.0,3.0,16.0,1.0,3,2,-1
+Mdiq-Fnideq,Tanger-Tetouan-Al Hoceima,1.0,1.0,2.0,0.0,6.0,1.0,0.0,0.0,4,4,1
+Mediouna,Casablanca-Settat,1.0,0.0,8.0,0.0,2.0,3.0,0.0,0.0,0,0,3
+Meknes,Fès-Meknès,1.0,1.0,13.0,3.0,31.0,2.0,18.0,1.0,3,2,-1
+Midelt,Drâa-Tafilalet,0.0,0.0,15.0,12.0,3.0,1.0,32.0,0.0,2,1,-1
+Mohammedia,Casablanca-Settat,1.0,1.0,3.0,1.0,11.0,3.0,0.0,0.0,4,4,1
+Moulay Rachid,Casablanca-Settat,1.0,1.0,0.0,0.0,13.0,5.0,0.0,0.0,4,4,1
+Moulay Yacoub,Fès-Meknès,1.0,1.0,5.0,6.0,1.0,3.0,19.0,0.0,8,7,0
+Nador,Oriental,1.0,1.0,13.0,3.0,11.0,5.0,6.0,1.0,6,2,-1
+Nouaceur,Casablanca-Settat,1.0,1.0,0.0,0.0,19.0,2.0,0.0,0.0,4,4,1
+Ouarzazate,Drâa-Tafilalet,1.0,1.0,9.0,9.0,4.0,1.0,22.0,1.0,1,5,0
+Oued Ed-Dahab,Eddakhla-Oued Eddahab,1.0,1.0,0.0,2.0,4.0,2.0,4.0,1.0,4,4,-1
+Ouezzane,Tanger-Tetouan-Al Hoceima,0.0,0.0,7.0,10.0,5.0,1.0,17.0,0.0,2,1,4
+Oujda Angad,Oriental,1.0,1.0,8.0,0.0,25.0,1.0,1.0,1.0,3,4,-1
+Rabat,Rabat-Salé-Kénitra,1.0,2.0,0.0,0.0,15.0,9.0,0.0,0.0,5,6,-1
+Rehamena,Marrakech-Safi,1.0,1.0,15.0,8.0,4.0,1.0,5.0,0.0,8,7,0
+Safi,Marrakech-Safi,1.0,1.0,17.0,5.0,16.0,2.0,4.0,1.0,6,5,0
+Salé,Rabat-Salé-Kénitra,1.0,1.0,2.0,0.0,30.0,1.0,1.0,0.0,4,4,-1
+Sefrou,Fès-Meknès,1.0,1.0,12.0,6.0,5.0,3.0,7.0,0.0,8,7,0
+Settat,Casablanca-Settat,2.0,0.0,35.0,9.0,8.0,5.0,29.0,1.0,7,3,-1
+Sidi Bennour,Casablanca-Settat,1.0,1.0,20.0,4.0,4.0,1.0,2.0,0.0,8,7,0
+Sidi Bernoussi,Casablanca-Settat,1.0,0.0,0.0,0.0,11.0,3.0,0.0,0.0,0,0,3
+Sidi Ifni,Guelmim-Oued Noun,0.0,0.0,10.0,6.0,2.0,2.0,19.0,0.0,2,1,4
+Sidi Kacem,Rabat-Salé-Kénitra,1.0,1.0,21.0,3.0,5.0,3.0,8.0,1.0,6,5,0
+Sidi Slimane,Rabat-Salé-Kénitra,1.0,0.0,12.0,1.0,5.0,1.0,10.0,0.0,0,0,3
+Skhirate-Temara,Rabat-Salé-Kénitra,2.0,1.0,6.0,3.0,12.0,8.0,1.0,0.0,5,6,-1
+Tan Tan,Guelmim-Oued Noun,0.0,0.0,5.0,0.0,4.0,1.0,0.0,0.0,0,0,3
+Tanger Assilah,Tanger-Tetouan-Al Hoceima,1.0,1.0,6.0,3.0,21.0,7.0,0.0,1.0,6,2,-1
+Taounate,Fès-Meknès,1.0,1.0,34.0,10.0,3.0,3.0,27.0,1.0,1,8,2
+Taourirt,Oriental,1.0,0.0,10.0,1.0,5.0,1.0,5.0,0.0,0,0,3
+Tarfaya,Laayoune-Sakia El Hamra,0.0,0.0,3.0,0.0,1.0,1.0,2.0,0.0,0,0,3
+Taroudant,Souss-Massa,1.0,1.0,61.0,20.0,6.0,6.0,31.0,1.0,7,3,-1
+Tata,Souss-Massa,0.0,0.0,8.0,8.0,4.0,3.0,13.0,0.0,2,1,4
+Taza,Fès-Meknès,1.0,1.0,20.0,14.0,8.0,3.0,29.0,1.0,1,8,2
+Tetouan,Tanger-Tetouan-Al Hoceima,1.0,1.0,17.0,3.0,18.0,1.0,1.0,1.0,6,5,0
+Tinghir,Drâa-Tafilalet,0.0,0.0,13.0,9.0,3.0,1.0,16.0,0.0,2,1,4
+Tiznit,Souss-Massa,1.0,1.0,11.0,12.0,2.0,1.0,29.0,1.0,1,5,0
+Youssoufia,Marrakech-Safi,0.0,1.0,6.0,3.0,3.0,1.0,4.0,0.0,8,7,-1
+Zagora,Drâa-Tafilalet,0.0,0.0,17.0,10.0,3.0,1.0,16.0,0.0,2,1,4
