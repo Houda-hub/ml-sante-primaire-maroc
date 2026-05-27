@@ -284,6 +284,10 @@ Les clusters identifiés correspondent à des **profils d'offre sanitaire** dist
 
 ## 👤 Auteur
 
-> Projet réalisé dans le cadre du cours de **Machine Learning**  
-> Filière : *[votre filière]*  
-> Année universitaire : 2024–2025
+> **Nom :** Houda BEDDACH
+> **Projet réalisé dans le cadre du cours de Machine Learning**  
+> **Filière :** *ISI*
+> **Université :** Cadi Ayyad
+> **Faculté :** Faculté des sciences Semlalia
+> **Encadrant :** Pr. KALLOUBI FAHD  
+> **Année universitaire** : 2025–2026
