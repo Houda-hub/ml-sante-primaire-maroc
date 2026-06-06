@@ -81,9 +81,9 @@ Réduction de dimensionnalité : PCA (4 composantes → 80.2% variance)
 |---|---|---|---|---|
 | **K-Means** | 9 | 0.3039 | 30.01 | 0.9453 |
 | **Hiérarchique (Ward)** | 9 | 0.2792 | 27.51 | 1.0251 |
-| **DBSCAN** ✅ | 5 | **0.3552** | **33.54** | **0.7978** |
+| **DBSCAN**  | 5 | **0.3552** | **33.54** | **0.7978** |
 
-> ✅ **DBSCAN** obtient les meilleures métriques sur les clusters denses.  
+> **DBSCAN** obtient les meilleures métriques sur les clusters denses.  
 > K-Means reste le plus interprétable avec 9 groupes bien définis.
 
 ![Comparaison](fig12_comparaison.png)
