@@ -120,14 +120,6 @@ jupyter notebook ml_sante_primaire.ipynb
 ├── ml_sante_primaire.ipynb                               # Notebook principal
 ├── etablissements-de-soins-de-sante-primaire-2024.xlsx   # Dataset
 ├── resultats_clustering.csv                              # Résultats exportés
-├── fig1_distribution.png                                 # Distribution des catégories
-├── fig3_pca_variance.png                                 # Scree plot PCA
-├── fig5_kmeans_elbow.png                                 # Elbow + Silhouette
-├── fig6_kmeans_clusters.png                              # Clusters K-Means
-├── fig8_dendrogramme.png                                 # Dendrogramme
-├── fig10_dbscan_kdist.png                                # K-Distances DBSCAN
-├── fig11_dbscan_clusters.png                             # Clusters DBSCAN
-├── fig12_comparaison.png                                 # Comparaison métriques
 └── README.md
 ```
 
